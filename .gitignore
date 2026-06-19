@@ -1,0 +1,11 @@
+# Libros de Excel con datos reales — NUNCA versionar
+*.xlsm
+*.xlsb
+*.xls
+*.xlsx
+~$*
+
+# Temporales / OS
+.DS_Store
+Thumbs.db
+.claude/
